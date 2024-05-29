@@ -1,0 +1,38 @@
+[
+  { "title": "Design homepage", "column": "backlog", "id": "1" },
+  { "title": "Write user stories", "column": "backlog", "id": "2" },
+  { "title": "Create wireframes", "column": "backlog", "id": "3" },
+  { "title": "Develop login feature", "column": "todo", "id": "4" },
+  { "title": "Set up database", "column": "todo", "id": "5" },
+  { "title": "Implement authentication", "column": "todo", "id": "6" },
+  {
+    "title": "Code review for login feature",
+    "column": "inProgress",
+    "id": "7"
+  },
+  { "title": "Write unit tests", "column": "inProgress", "id": "8" },
+  {
+    "title": "Fix bugs in signup feature",
+    "column": "inProgress",
+    "id": "9"
+  },
+  { "title": "Deploy application", "column": "done", "id": "10" },
+  { "title": "Update project documentation", "column": "done", "id": "11" },
+  { "title": "Conduct user testing", "column": "done", "id": "12" },
+  { "title": "Optimize database queries", "column": "backlog", "id": "13" },
+  { "title": "Integrate payment gateway", "column": "todo", "id": "14" },
+  { "title": "Design user dashboard", "column": "backlog", "id": "15" },
+  { "title": "Implement search functionality", "column": "todo", "id": "16" },
+  {
+    "title": "Set up continuous integration",
+    "column": "inProgress",
+    "id": "17"
+  },
+  { "title": "Create marketing plan", "column": "backlog", "id": "18" },
+  { "title": "Design mobile layout", "column": "todo", "id": "19" },
+  {
+    "title": "Conduct performance testing",
+    "column": "inProgress",
+    "id": "20"
+  }
+]
